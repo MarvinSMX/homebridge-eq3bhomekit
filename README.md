@@ -1,7 +1,7 @@
 
 <p align="center">
 
-<img src="src\eq3hmebridge.png" width="500">
+<img src="src\eq3hmebridge.png" width="250">
 
 <h1 align="center">eQ3 Bluetooth - Homekit Control</h1>
 
