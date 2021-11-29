@@ -3,11 +3,9 @@
 
 <img src="src\eq3hmebridge.png" width="500">
 
+# eQ3 Bluetooth - Homekit Control
 
 </p>
-
-
-# eQ3 Bluetooth - Homekit Control
 
 This is a template Homebridge platform plugin and can be used as a base to help you get started developing your own plugin.
 
