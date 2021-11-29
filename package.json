@@ -1,5 +1,4 @@
 {
-  "private": true,
   "displayName": "eQ3 Bluetooth - Homekit Control",
   "name": "homebridge-eq3bhomekit",
   "version": "1.0.0",

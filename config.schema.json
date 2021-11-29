@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "eq3bhomekit",
   "pluginType": "platform",
   "singular": true,
   "schema": {
