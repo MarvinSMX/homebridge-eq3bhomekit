@@ -4,7 +4,7 @@
   "name": "homebridge-eq3bhomekit",
   "version": "1.0.0",
   "description": "eQ3 Bluetooth thermostat controller plugin for Homebridge",
-  "author": "MarvinSMX",
+  "author": "MIT",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
