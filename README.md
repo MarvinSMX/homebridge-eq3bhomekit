@@ -1,7 +1,7 @@
 
 <p align="center">
 
-<img src="src\eq3hmebridge.png" width="150">
+<img src="src\eq3hmebridge.png">
 
 
 </p>
