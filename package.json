@@ -4,6 +4,7 @@
   "name": "homebridge-eq3bhomekit",
   "version": "1.0.0",
   "description": "eQ3 Bluetooth thermostat controller plugin for Homebridge",
+  "author": "MarvinSMX",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -24,7 +25,10 @@
     "prepublishOnly": "npm run lint && npm run build"
   },
   "keywords": [
-    "homebridge-plugin"
+    "homebridge",
+    "homebridge-plugin",
+    "eq3",
+    "thermostat"
   ],
   "dependencies": {},
   "devDependencies": {
