@@ -3,7 +3,7 @@
 
 <img src="src\eq3hmebridge.png" width="500">
 
-# eQ3 Bluetooth - Homekit Control
+<h1 align="center">eQ3 Bluetooth - Homekit Control</h1>
 
 </p>
 
